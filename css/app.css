@@ -1,0 +1,159 @@
+#app {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100vw;
+    height: 100vh;
+    background-color: skyblue;
+}
+
+.snows {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    transition: left 5s, top 5s;
+}
+
+#rainbow {
+    width: 100vw;
+    height: 50%;
+    bottom: -10%;
+    left: 0px;
+    position: absolute;
+}
+
+#lips {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 40%;
+    height: 50%;
+}
+
+.clouds {
+    position: absolute;
+    width: 18%;
+}
+
+#c1 {
+    float: left;
+}
+
+#c2 {
+    margin-left: 15%;
+    bottom: 40%;
+}
+
+#c3 {
+    margin-left: 50%;
+    height: 60%;
+}
+
+#c4 {
+    margin-left: 60%;
+    bottom: 35%;
+}
+
+#c5 {
+    margin-left: 30%;
+    bottom: 50%;
+}
+
+#c6 {
+    bottom: 50%;
+}
+
+#c7 {
+    right: 0px;
+    bottom: 50%;
+}
+
+#c8 {
+   right: 17%;
+   bottom: 70%;
+}
+
+#sun {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 200px;
+}
+
+#cat {
+    position: absolute;
+    bottom: 0px;
+    width: 70%;
+}
+
+
+#balloon {
+    width: 25%;
+    position: absolute;
+    right: 55%;
+}
+
+.candy {
+    width: 13%;
+    position: absolute;
+    transition: width 1s, height 1s;
+}
+
+#chew {
+   margin-left: 3%;
+}
+
+#dark {
+    margin-left: 18%;
+    bottom: 47%;
+}
+
+#dessert {
+    margin-left: 2%;
+    bottom: 58%;
+}
+
+#original {
+    right: 60%;
+    width: 15%;
+}
+
+#orchard {
+    bottom: 56%;
+    right: 54%;
+}
+
+#heat {
+    right: 5%;
+    bottom: 80%;
+}
+
+#sour {
+    right: 3%;
+    bottom: 56%;
+}
+
+#tropical {
+    right: 20%;
+    bottom: 76%;
+}
+
+#wild {
+    right: 34%;
+    bottom: 66%;
+}
+
+#riddle {
+    right: 24%;
+    bottom: 42%;
+}
+
+#text {
+    position: absolute;
+    bottom: 12%;
+    margin-left: 18%;
+    width: 200px;
+    font-family: 'Oswald', sans-serif;
+}
